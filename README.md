@@ -11,3 +11,13 @@ Next, we changed the next div section to a main parent and switch within that el
 Instead of adding another main for the next div. We set that as an aside element to help with the css file not getting confused with another main element. Within that we also switched the div to section and added alt to each img. Also, adding in comments to each section with in the html file. 
 
 The css file we condensed down some of the selectors and added in comments. This helps so there isnt as many repeating selectors and containers. 
+
+
+Here is a link to the site:
+
+https://johnsiefert.github.io/horiseon/
+
+
+I have also included a screenshot of the site:
+
+![screenshot](./assets/images/Horiseon.png) 

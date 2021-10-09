@@ -20,4 +20,4 @@ https://johnsiefert.github.io/horiseon/
 
 I have also included a screenshot of the site:
 
-![screenshot](/assets/images/Horiseon.png)
+![image](./assets/images/horiseon.png)
